@@ -1,0 +1,39 @@
+.bg-general{
+    background-color: #5b5b5b;
+}
+
+.styles-card{
+    background-color: #353535;
+    color: #ffffff;
+    font-size: 14px;
+    border: 3px solid #353535 !important;
+    transition: ease-in-out 500ms;
+}
+
+.styles-card:hover{
+    background-color: #1b1919;
+    color: #ffffff;
+    font-size: 14px;
+    border: 3px solid #0cb35d !important;
+    cursor: pointer;
+}
+
+.styles-card h5 {
+    font-size: 18px;
+}
+
+.styles-card-2{
+    background-color: #353535;
+    color: #ffffff;
+    font-size: 14px;
+    border: 3px solid #353535 !important;
+    transition: ease-in-out 500ms;
+}
+
+.styles-card-2 h5 {
+    font-size: 18px;
+}
+
+.centering{
+    text-align-last: center;
+}
